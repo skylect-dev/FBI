@@ -26,3 +26,5 @@ Banner: Originally created by [OctopusRift](https://gbatemp.net/members/octopusr
 Logo: [PabloMK7](https://gbatemp.net/members/pablomk7.345712/)
 
 SPI Protocol Information: [TuxSH](https://github.com/TuxSH/) ([TWLSaveTool](https://github.com/TuxSH/TWLSaveTool))
+
+This branch is maintained by me (skylect) and might differ in the future from the original master of FBI's github. This is to preserve the last state of FBI before it was archived.
